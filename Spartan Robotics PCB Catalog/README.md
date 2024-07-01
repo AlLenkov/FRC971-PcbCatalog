@@ -1,4 +1,4 @@
-
+<img src="media/image7.png" width="500">
 # PCB Catalog
 
 Table Of Contents
@@ -110,7 +110,7 @@ Table Of Contents
 
 ## Can Terminator
 
-<img src="media/image7.png" width="400">
+<img src="media/image7.png" width="200">
 
 ### Features
 * 120 Ohm CAN bus terminator using a Molex SL connector
@@ -119,7 +119,7 @@ Table Of Contents
 
 ## Mini Power Distribution Board
 
-<img src="media/image8.png" width="400">
+<img src="media/image8.png" width="200">
 
 ### Features
 * LED lights up when a fuse is inserted. 
@@ -138,7 +138,7 @@ Table Of Contents
 
 ## Kraken CAN Connector Board
 
-<img src="media/image9.png" width="400">
+<img src="media/image9.png" width="200">
 
 ### Features
 * Molex SL connectors
