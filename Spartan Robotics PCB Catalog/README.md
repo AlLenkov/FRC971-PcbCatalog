@@ -1,7 +1,7 @@
 <img src="media/image1.png" width="500">
 # PCB Catalog
 
-Table Of Contents
+#Table Of Contents
 1. [Beam Break Board](#beam-break-board)
     * [Features](#features-1)
     * [Specifications](#specifications)
@@ -23,8 +23,6 @@ Table Of Contents
         * [Rated Current](#rated-current)
 8. [Kraken CAN Connector Board](#kraken-can-connector-board)
     * [Features](#features-8)
-9. [Closing Notes](#closing-notes)
-    * [Resources](#resources)
 
 ---
 
@@ -143,12 +141,5 @@ Table Of Contents
 ### Features
 * Molex SL connectors
 * Simplifies connecting Kraken motors to a CAN bus
-
----
-
-## Closing Notes
-
-### Resources
-* [GitHub](https://github.com/frc971/electrical)
-    * GitHub contains PCB files, 3D files, and BOMs
+ 
 ```
