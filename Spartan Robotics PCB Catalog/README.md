@@ -47,8 +47,7 @@
 * Other sensors with similar active low (NPN) output signal
 
 	#### Compatibility
-	* Sensors or switching devices with similar Output to Automation Direct QMI7-0N-0F
-	 Most industrial switching devices from Automation Direct and similar distributors
+	* Sensors or switching devices with similar Output to Automation Direct QMI7-0N-0F and most industrial switching devices from Automation Direct and similar distributors
 	* Compatible with Spartan Board
 
 ---
