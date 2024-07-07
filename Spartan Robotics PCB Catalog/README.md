@@ -1,7 +1,8 @@
 <img src="media/image1.png" width="500">
+
 # PCB Catalog
 
-#Table Of Contents
+### Table Of Contents
 1. [Beam Break Board](#beam-break-board)
     * [Features](#features-1)
     * [Specifications](#specifications)
